@@ -1,4 +1,4 @@
-gensim – Topic Modelling in Python
+gensim-ngram – Topic Modelling in Python
 ==================================
 
 
@@ -8,7 +8,7 @@ Have a look at **train_ngram.py** for a sample training scripts.
 
 Written by modifying gensim source code, but not supporting GIL, as I am not familiar with Cython, but still faster 
 
-Gensim is a Python library for *topic modelling*, *document indexing*
+Gensim ngram is a Python library for *topic modelling*, *document indexing*
 and *similarity retrieval* with large corpora. Target audience is the
 *natural language processing* (NLP) and *information retrieval* (IR)
 community.
