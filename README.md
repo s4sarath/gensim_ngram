@@ -22,8 +22,11 @@ Features
     -   Training n-grams ( but it is recommended to stop at trigrams, bigram + unigram with min_count = (10,5)
         respectively has around 17 million wordds
     -   Supports n gram training for word2vec and fasttetx
--   A previously trained model on WikiData + some review datasets will be available on the following link
-    **Latent Semantic Analysis (LSA/LSI/SVD)**
+
+Model file ( unigram + bigrams ) trained on Wikipedia
+-----------------------------------------------------
+Toal vocabulary is 17758426
+https://www.kaggle.com/s4sarath/word2vec-unigram-bigrams-/home
     
 Sample Results
 --------------
